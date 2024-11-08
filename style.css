@@ -19,11 +19,9 @@ body {
     text-size-adjust: auto;
     font-weight: 700;
     box-sizing: border-box;
-    width: 600;
     margin: 12px;
     padding: 12px;
     border: 2px;
-    border-style: double;
     font-style: italic;
     border-style: inset
 }
